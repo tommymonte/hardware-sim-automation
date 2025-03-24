@@ -1,0 +1,164 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/gr23_15/lab8/lab8_files
+T_opt
+!s110 1705167218
+VY>f1B:;[C4`8?S]Vic1eg0
+04 6 6 work rca_tb behave 1
+=1-000ae431a4f1-65a2c972-1e0c7-2bb666
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+Pconstants
+!i122 124
+w1705167215
+R0
+8constants.vhd
+Fconstants.vhd
+l0
+L1 1
+Vmzf;ezPHb6Tc;W[_n0XOz3
+!s100 fbEYEeK]T:5?N:7^d8]P92
+Z1 OL;C;2020.4;71
+32
+Z2 !s110 1705167217
+!i10b 1
+Z3 !s108 1705167217.000000
+!s90 constants.vhd|
+!s107 constants.vhd|
+!i113 0
+Z4 tExplicit 1 CvgOpt 0
+Efull_adder
+Z5 w1704711257
+Z6 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 125
+R0
+Z9 8full_adder.vhd
+Z10 Ffull_adder.vhd
+l0
+L5 1
+VlTQOI[_id[gPK:?n6D=j^3
+!s100 QF]UR37oYdz@ZhY89Y;>k1
+R1
+32
+R2
+!i10b 1
+R3
+Z11 !s90 full_adder.vhd|
+Z12 !s107 full_adder.vhd|
+!i113 0
+R4
+Artl
+R6
+R7
+R8
+DEx4 work 10 full_adder 0 22 lTQOI[_id[gPK:?n6D=j^3
+!i122 125
+l23
+L17 23
+VMjWQUk1j5ob>[lKB34;d=0
+!s100 nfBGh9XDj[O`i`Q=:_k2O1
+R1
+32
+R2
+!i10b 1
+R3
+R11
+R12
+!i113 0
+R4
+Erca_tb
+Z13 w1704711258
+Z14 DPx4 work 9 constants 0 22 mzf;ezPHb6Tc;W[_n0XOz3
+Z15 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+R6
+R7
+R8
+!i122 127
+R0
+Z16 8rca_tb.vhd
+Z17 Frca_tb.vhd
+l0
+L9 1
+V:?nF5el^G6S=ePUIUEQb03
+!s100 ]X7SlC?ePB?LT[[jHbdIo3
+R1
+32
+R2
+!i10b 1
+R3
+Z18 !s90 rca_tb.vhd|
+Z19 !s107 rca_tb.vhd|
+!i113 0
+R4
+Abehave
+R14
+R15
+R6
+R7
+R8
+DEx4 work 6 rca_tb 0 22 :?nF5el^G6S=ePUIUEQb03
+!i122 127
+l36
+L14 78
+VCRfg`<FD[e@=8aOj^3cPg2
+!s100 >XLReb2oJk:Uk65e]@H]j3
+R1
+32
+R2
+!i10b 1
+R3
+R18
+R19
+!i113 0
+R4
+Eripple_carry_adder
+R13
+R7
+R8
+!i122 126
+R0
+Z20 8ripple_carry_adder.vhd
+Z21 Fripple_carry_adder.vhd
+l0
+L4 1
+VZdL;>c1D7L6hS>WedOF^o0
+!s100 1Tf`eNSoe:Ti><ef;AcFM2
+R1
+32
+R2
+!i10b 1
+R3
+Z22 !s90 ripple_carry_adder.vhd|
+Z23 !s107 ripple_carry_adder.vhd|
+!i113 0
+R4
+Artl
+R7
+R8
+DEx4 work 18 ripple_carry_adder 0 22 ZdL;>c1D7L6hS>WedOF^o0
+!i122 126
+l32
+L17 45
+Vn2o`mhKg8A^=Q1HZAF[4@3
+!s100 ASgo`lElndFA5HA0KnWb81
+R1
+32
+R2
+!i10b 1
+R3
+R22
+R23
+!i113 0
+R4
